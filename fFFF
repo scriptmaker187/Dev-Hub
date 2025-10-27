@@ -1,5 +1,4 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"))()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/scriptmaker187/Chat-Logger/refs/heads/main/START"))()
 local Rayfield = loadstring(game:HttpGet("https://raw.githubusercontent.com/scriptmaker187/rayfield/refs/heads/main/rayfield.lua"))()
 
 local Window =
